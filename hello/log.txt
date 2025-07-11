@@ -1,0 +1,16 @@
+11/07/2025 17:54:32 - https://www.alura.com.br//kfdjjs1 - online:  false
+11/07/2025 17:54:33 - https://www.facebook.com.br - online:  true
+11/07/2025 17:54:34 - https://www.twitter.com.br - online:  true
+11/07/2025 17:54:34 - https://www.casadocodigo.com.br - online:  true
+11/07/2025 17:54:39 - https://www.alura.com.br//kfdjjs1 - online:  false
+11/07/2025 17:54:40 - https://www.facebook.com.br - online:  true
+11/07/2025 17:54:41 - https://www.twitter.com.br - online:  true
+11/07/2025 17:54:41 - https://www.casadocodigo.com.br - online:  true
+11/07/2025 18:29:14 - https://www.alura.com.br//kfdjjs1 - online:  false
+11/07/2025 18:29:14 - https://www.facebook.com.br - online:  true
+11/07/2025 18:29:15 - https://www.twitter.com.br - online:  true
+11/07/2025 18:29:16 - https://www.casadocodigo.com.br - online:  true
+11/07/2025 18:29:21 - https://www.alura.com.br//kfdjjs1 - online:  false
+11/07/2025 18:29:21 - https://www.facebook.com.br - online:  true
+11/07/2025 18:29:22 - https://www.twitter.com.br - online:  true
+11/07/2025 18:29:22 - https://www.casadocodigo.com.br - online:  true
